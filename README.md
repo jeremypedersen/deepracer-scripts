@@ -1,3 +1,5 @@
+**⚠️Warning: This is just a personal backup of David Smith's repo**. Please [use that repo](https://github.com/davidfsmith/deepracer-scripts) if you want the latest copy of the DeepRacer scripts. 
+
 # DeepRacer Scripts
 
 Please note this scripts are provided as is.... if something breaks through use then a) I'm sorry b) fix it and submit a PR ;-)
